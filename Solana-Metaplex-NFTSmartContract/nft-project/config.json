@@ -1,0 +1,18 @@
+{
+    "price": 0.05,
+    "number": 100,
+    "gatekeeper": null,
+    "solTreasuryAccount": "5Fskj7ZioqNfFzQx2JoEMQVMfsMPvSzpdF4vFeZP2uMo",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "01 Jan 2022 00:00:00 GMT",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "ipfs",
+    "ipfsInfuraProjectId": "b76cb2e369d54713bfbd499235764fc6",
+    "ipfsInfuraSecret": "7a5b9ec37b664199a0cf5b2b8d6fc5a9",
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false
+}
