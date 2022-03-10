@@ -3,5 +3,15 @@ Kovan-Ethereum-NFTSmartConract/nft-tutorial/node_modules
 Solana-Metaplex-NFTSmartContract/metaplex/js/node_modules
 Solana-NFTSmartContract/node_modules
 TRON-NFTSmartContract/Project/node_modules
-ERC-1155-SemiFungibleSmartContract/erc-1155-enjin
+ERC-1155-SemiFungibleSmartContract/opensea-erc1155/build
+ERC-1155-SemiFungibleSmartContract/opensea-erc1155/flattened
 ERC-1155-SemiFungibleSmartContract/opensea-erc1155/node_modules
+ERC-1155-SemiFungibleSmartContract/opensea-erc1155/.env*
+ERC-1155-SemiFungibleSmartContract/opensea-erc1155/*.DS_Store
+ERC-1155-SemiFungibleSmartContract/opensea-erc1155/*-error.log
+ERC-1155-SemiFungibleSmartContract/opensea-erc1155/.idea
+ERC-1155-SemiFungibleSmartContract/opensea-erc1155/yarn.lock
+ERC-1155-SemiFungibleSmartContract/opensea-erc1155/package-lock.json
+ERC-1155-SemiFungibleSmartContract/erc-1155-enjin/node_modules
+ERC-1155-SemiFungibleSmartContract/erc-1155-enjin/.idea
+ERC-1155-SemiFungibleSmartContract/erc-1155-enjin/build
